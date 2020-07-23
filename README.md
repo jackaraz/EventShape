@@ -30,3 +30,6 @@ In `user.cpp`:
   shape->calculateSphericity(my_jets);
   shape->calculateThrust(my_jets);
   ```
+  
+  ## TODO:
+  - [ ] Add broadening
