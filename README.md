@@ -2,9 +2,9 @@
 Event shape calculator for MadAnalysis 5
 
 Currently available functionalities:
-  * Aplanarity
-  * Sphericity
-  * Transverse Sphericity
+  * [Aplanarity](https://www.sciencedirect.com/science/article/pii/0370269378900618)
+  * [Sphericity](https://www.sciencedirect.com/science/article/pii/0370269378900618)
+  * [Transverse Sphericity](https://www.sciencedirect.com/science/article/pii/0370269378900618)
   * Thrust
   * Thrust Minor
   * Thrust Major
